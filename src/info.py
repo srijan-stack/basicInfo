@@ -10,3 +10,6 @@ def gender(str):
 def address(str):
     return str
 
+
+def grade(num):
+    return num
